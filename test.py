@@ -3,7 +3,7 @@ for i in range(n):
     print(n,end="")
 print("aaa")
 print("bbb")
-print("ccc")
+print("xxx")
 for i in range(n):
     print(n,end="")
 print("ccc")
