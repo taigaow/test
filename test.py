@@ -2,7 +2,7 @@ n = int(input())
 for i in range(n):
     print(n,end="")
 print("aaa")
-print("bbb")
+print("yyy")
 print("xxx")
 for i in range(n):
     print(n,end="")
